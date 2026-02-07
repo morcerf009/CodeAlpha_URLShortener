@@ -1,0 +1,5 @@
+{
+  "name": "LinkSwift - URL Shortener",
+  "description": "A robust, high-performance URL shortener application featuring instant aliasing and click analytics.",
+  "requestFramePermissions": []
+}
